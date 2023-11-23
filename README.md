@@ -31,9 +31,9 @@ Successfully completing this Piscine process has opened the doors for me to join
 
 | Exam | Grade |
 | :--- | :--- |
-| Exam 00 | <img src="https://img.shields.io/badge/score-10%20%2F%20100%20%E2%98%85-red" /> |
-| Exam 01 | <img src="https://img.shields.io/badge/score-60%20%2F%20100%20%E2%98%85-sucess" /> |
-| Exam 02 | <img src="https://img.shields.io/badge/score-60%20%2F%20100%20%E2%98%85-sucess" /> |
-| Final Exam | <img src="https://img.shields.io/badge/score-66%20%2F%20100%20%E2%98%85-sucess" /> |
+| Exam 00 | <img src="https://img.shields.io/badge/score-10%20%2F%20100-red" /> |
+| Exam 01 | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
+| Exam 02 | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
+| Final Exam | <img src="https://img.shields.io/badge/score-66%20%2F%20100-success" /> |
 
 </div>
